@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "sharp": "^0.33.5",
+    "tslab": "^1.0.22"
+  },
+  "name": "jupyter-ts",
+  "version": "1.0.0",
+  "description": "```sh # install & activate venv pipenv install pipenv shell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED"
+}
